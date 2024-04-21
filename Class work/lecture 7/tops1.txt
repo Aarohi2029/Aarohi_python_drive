@@ -1,0 +1,1 @@
+this is file write operation using python.this is file append operation using python.

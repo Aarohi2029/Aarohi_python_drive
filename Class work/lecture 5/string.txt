@@ -1,0 +1,18 @@
+
+
+   01234567890123
+s="Aarohi Gadhavi"
+   43210987654321             
+
+
+print(s[3:13])=ohi Gadhav
+print(s[:11])=Aarohi Gad
+print(s[2:])=rohi Gadhavi
+print(s[3:12:3])=o d
+print(s[: :5])=Aih
+
+print(s[-13:-3])=arohi Gadh
+print(s[:-5])=Aarohi Ga
+print(s[-4:])=havi
+print(s[-14:-2:2])=Arh ah
+print(s[::-3])=ihGha

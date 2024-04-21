@@ -1,0 +1,27 @@
+file=open("tops1.txt","w")
+file.write("this is file write operation using python.")
+file.close()
+print("successfully")
+print("*********************************************************")
+file=open("tops1.txt","r")
+print(file.read())
+file.close()
+print("*********************************************************")
+file=open("tops1.txt","a")
+file.write("this is file append operation using python.")
+file.close()
+print("successfully")
+print("*********************************************************")
+print(file.read())
+file.close()
+print("*********************************************************")
+
+
+file=open("tops2.txt","w+")
+file.write("this is file w+ operation using python.")
+print("current file position : "file.tell())
+file.seek(0)
+print(file.read())
+file.close()
+
+
