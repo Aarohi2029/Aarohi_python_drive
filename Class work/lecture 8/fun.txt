@@ -1,0 +1,4 @@
+function is set of instruction that perform a specific task.
+
+1] userdefine
+2]  library 
