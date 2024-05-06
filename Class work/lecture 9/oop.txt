@@ -1,0 +1,42 @@
+Object oriented programming:--
+--------------------------------------------------------------------
+The main object concept are:
+1]Class
+2]Object
+3]Inheritance
+4]Polymorphisam
+5]Encpaculation
+6]Abstraction
+------------------------------------------------------------------------
+1]Class:-class is a group of different type of variable and function.
+
+2]Object:-object is an instance of class.
+
+3]Inheritance:-the object of one class can aquire the properties of oobject of another class is called inheritance or creating a new class from existing class is called inheritance.
+
+1.single 
+  a->b
+2.multilevel
+ a->b->c
+3.multiple
+ a
+    ->c
+ b
+4.hierarchical
+   ->b
+a->->c
+   ->d
+5.hybrid
+   ->b
+a         ->d
+   ->c
+
+4] Pollymorphism:-one name multiple form 2 types.
+
+1--compile time(method overloading):when there is a more than one method in a single class having the same name but with different number of arguments and their data types then it is called.
+
+2--run time(method overriding):when there is same method prototype in your both base class and derived class,if you call that method using the object of derived class then only derived class method will be called,so you can say that method of derived class overides the method of base class.
+
+5]Encpsulation:-to bind a data and code into a single unit is called encapsulation.
+
+6]Abstraction:data hiding
