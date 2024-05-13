@@ -1,0 +1,5 @@
+e_id
+e_pname
+e_quantity
+e_price
+e_total
